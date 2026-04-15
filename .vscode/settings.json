@@ -1,0 +1,11 @@
+{
+    "chat.tools.terminal.autoApprove": {
+        "C:/Users/angel/AppData/Local/Microsoft/WindowsApps/python3.11.exe": true,
+        "Set-Content": true,
+        "/^python -m unittest discover -s tests -v$/": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "d:/Desktop/websites/MTGPredictor/.venv/Scripts/python.exe": true
+    }
+}
